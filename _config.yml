@@ -27,6 +27,11 @@ baseurl                  : "/dlenm-demo.io"
 repository               : "davidfrey/dlenm-demo.io"
 logo                     : "/assets/images/logo.png"
 
+# Scripts
+head_scripts:
+  - https://sandbox-dlenm-registration1-developer-edition.cs41.force.com/registration/lightning/lightning.out.js
+  - /assets/js/course-listings.js
+
 
 # Site Author
 author:
