@@ -16,4 +16,13 @@ $Lightning.use("c:LOApp", function() {
             console.log("LWC component was created");
         }
     );
+
+    $Lightning.createComponent(
+        "c:trainingLog",
+        {},
+        "trainingRegistration",
+        function(cmp) {
+            console.log("TrainingRegistration Yo");
+        }
+    );
 }, 'https://sandbox-dlenm-registration1-developer-edition.cs41.force.com/registration');

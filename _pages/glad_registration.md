@@ -9,3 +9,4 @@ permalink: /glad/registration
 
 <div id="auraLightning"></div>
 <div id="lwcLightning"></div>
+<div id="trainingRegistration"></div>
