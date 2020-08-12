@@ -25,4 +25,4 @@ $Lightning.use("c:LOApp", function() {
             console.log("TrainingRegistration Yo");
         }
     );
-}, 'https://sandbox-dlenm-registration1-developer-edition.cs41.force.com/registration');
+}, 'https://sandbox-dlenm-registration1-developer-edition.cs77.force.com/registration');
